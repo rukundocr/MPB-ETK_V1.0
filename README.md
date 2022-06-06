@@ -1,4 +1,4 @@
-# MPB-V1.0
+# MPB-ETK V1.0
 
 It is a learning kits based on Arduino NANO board and ESP-01 . it is equipped with several sensors and it is easy to be used for beginners in embedded system programming.
 
